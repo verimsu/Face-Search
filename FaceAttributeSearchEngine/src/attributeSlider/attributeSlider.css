@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;0,700;1,300&display=swap');
+.label{
+    display: flex;
+  align-items: left;
+  font-size: 16px;
+  margin-top: 5px;
+  color: white;
+}
+.box{
+    display: flex;
+  align-items: right;
+  color: white;
+}
+.slider{
+    max-width: 50px;
+    background: aliceblue;
+    
+    }
+
+.table-container{
+
+    font-size: 23px;
+    width: 350px;
+
+    /* background: linear-gradient(90deg,  #c77373 0%, #5b5177 100%); */
+    background: white;
+    /* background-color: #0080AA; */
+    border: solid #0080AA 5px;
+    text-indent: 20px;
+    letter-spacing: 0.5px;
+    color:white;
+    font-family: sans-serif;
+    
+    
+ }
+ .checkboxtable{
+   font-size: '400px';
+ }
+
+ .content {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 400px;
+  /* margin: 0 auto; */
+  background: #a0c5e800;
+  padding: 10px 0;
+  align-items: left;
+
+
+ 
+}
+
+
+span {
+  width: 50px;
+  height: 50px;
+  background: black;
+}
+
+.cont_for_att {
+  width: 200px;
+  margin-right: 120px;
+  font-size: 10px;
+}
+.cont_for_att h1{
+  margin-top: 10px;
+  font-size: 18px;
+  padding-top: 4px;
+  color: #0080AA;
+}
+
